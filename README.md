@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Anshuman</h1>
+<h1 align="center">Hey, I'm Anshuman Payasi</h1>
 <h3 align="center">I Design Interfaces. I Write Code. I Solve Problems.</h3>
 
 <h3 align="left">Connect with me:</h3>
