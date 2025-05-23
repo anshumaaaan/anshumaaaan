@@ -1,26 +1,6 @@
 <h1 align="center">Hey, I'm Anshuman Payasi</h1>
 <h3 align="center">I Design Interfaces. I Write Code. I Solve Problems.</h3>
-# 💫 About Me:
-### 🎯 I’m currently working on
-Learning data science and building projects focused on data cleaning, EDA, and predictive modeling (especially in the supply chain domain).
 
-### 🤝 I’m looking to collaborate on
-Beginner-friendly data science and machine learning projects, especially ones involving real-world datasets.
-
-### 🙋 I’m looking for help with
-Improving my skills in SQL, Power BI, and understanding SAP's role in analytics.
-
-### 🌱 I’m currently learning
-- Data analysis using Python (NumPy, Pandas, Matplotlib, Seaborn)
-- Machine learning fundamentals (scikit-learn)
-- Power BI dashboards
-- SQL for data querying
-
-### 💬 Ask me about
-Python, UI/UX design, data cleaning, or how I’m balancing college with tech learning.
-
-### ⚡ Fun fact
-I once designed the complete UI/UX for two apps in under a month while leading a startup’s design team 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshumanpayasi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/11Anshuman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshumanpayasi00@gmail.com) 
