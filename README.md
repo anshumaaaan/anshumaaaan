@@ -1,3 +1,5 @@
+<h1 align="center">Hey, I'm Anshuman Payasi</h1>
+<h3 align="center">I Design Interfaces. I Write Code. I Solve Problems.</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshumanpayasi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/11Anshuman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshumanpayasi00@gmail.com) 
